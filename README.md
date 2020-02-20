@@ -1,4 +1,4 @@
-# study_statistical-analysis-of-spatial-data
+# study-statistical-analysis-of-spatial-data
 ## 概要
 空間データの統計分析の勉強用
 
