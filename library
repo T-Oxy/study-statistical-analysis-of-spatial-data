@@ -1,0 +1,25 @@
+## 詳細...https://cran.r-project.org/web/packages/パッケージ名/index.html で検索
+
+# spdep: Spatial Dependence: Weighting Schemes, Statistics
+library(spdep)
+# gpclib: General Polygon Clipping Library for R
+library(gpclib)
+# geosphere: Spherical Trigonometry
+library(geosphere)
+# maptools: Tools for Handling Spatial Objects
+library(maptools)
+# sp: Classes and Methods for Spatial Data
+library(sp)
+# spatstat: Spatial Point Pattern Analysis, Model-Fitting, Simulation, Tests
+library(spatstat)
+# classInt: Choose Univariate Class Intervals
+library(classInt)
+# e1071: Misc Functions of the Department of Statistics, Probability Theory Group (Formerly: E1071), TU Wien
+library(e1071)
+# RColorBrewer: ColorBrewer Palettes
+library(RColorBrewer)
+# reldist: Relative Distribution Methods
+library(reldist)
+# TeachingDemos: Demonstrations for Teaching and Learning
+library(TeachingDemos)
+
